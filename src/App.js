@@ -27,7 +27,7 @@ function App() {
     <div>
       <Header pages= { pages } setCurrentPage= { setCurrentPage } currentPage= { currentPage } />
       <main>
-        <p> something in it </p>
+        <Page currentPage= { currentPage }> </Page>
       </main>
       <Footer />
     </div>
