@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chidori/static/css/main.073c9b0a.css",
-    "main.js": "/chidori/static/js/main.e187451b.js",
-    "static/js/787.e35c049d.chunk.js": "/chidori/static/js/787.e35c049d.chunk.js",
-    "static/media/logo.svg": "/chidori/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/chidori/index.html",
-    "main.073c9b0a.css.map": "/chidori/static/css/main.073c9b0a.css.map",
-    "main.e187451b.js.map": "/chidori/static/js/main.e187451b.js.map",
-    "787.e35c049d.chunk.js.map": "/chidori/static/js/787.e35c049d.chunk.js.map"
+    "main.css": "/Chidori/static/css/main.073c9b0a.css",
+    "main.js": "/Chidori/static/js/main.20410fda.js",
+    "static/js/787.e35c049d.chunk.js": "/Chidori/static/js/787.e35c049d.chunk.js",
+    "static/media/logo.svg": "/Chidori/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Chidori/index.html",
+    "main.073c9b0a.css.map": "/Chidori/static/css/main.073c9b0a.css.map",
+    "main.20410fda.js.map": "/Chidori/static/js/main.20410fda.js.map",
+    "787.e35c049d.chunk.js.map": "/Chidori/static/js/787.e35c049d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e187451b.js"
+    "static/js/main.20410fda.js"
   ]
 }
