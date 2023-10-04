@@ -4,7 +4,7 @@ function About(props) {
 
   return (
     
-      <p>you are a monkey -geto suguru</p>
+      <p>Gojo Satoru</p>
    
   );
 
